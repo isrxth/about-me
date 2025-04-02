@@ -8,7 +8,7 @@
 - **Programming**: Python, HTML, CSS
 
 ### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=isrxth&show_icons=true&theme=tokyonight)
 
 ### 📫 Connect with Me
 - 💬 Open to discussions on **electronics, robotics, and coding**.
